@@ -12,7 +12,7 @@ const projects = [
     stack: ["React", "Node.js", "MongoDB", "Stripe"],
     desc: "A full-featured e-commerce platform with cart management, Stripe payments, admin dashboard, JWT auth, and real-time inventory updates.",
     image: "/project-ecommerce.jpg",
-    github: "https://github.com/vansh835",
+    github: "https://github.com/VanshCodes05",
     live: "#",
     featured: true,
   },
@@ -22,7 +22,7 @@ const projects = [
     stack: ["React", "Socket.io", "Node.js", "MongoDB"],
     desc: "Real-time messaging app with WebSocket rooms, online presence indicators, message history, and end-to-end encrypted conversations.",
     image: "/project-chat.jpg",
-    github: "https://github.com/vansh835",
+    github: "https://github.com/VanshCodes05",
     live: "#",
     featured: false,
   },
@@ -32,7 +32,7 @@ const projects = [
     stack: ["Next.js", "TypeScript", "TailwindCSS", "REST API"],
     desc: "A responsive SaaS analytics dashboard with live data charts, user management, role-based access control, and exportable reports.",
     image: "/project-dashboard.jpg",
-    github: "https://github.com/vansh835",
+    github: "https://github.com/VanshCodes05",
     live: "#",
     featured: false,
   },
@@ -174,7 +174,7 @@ export default function ProjectsSection() {
         {/* GitHub CTA */}
         <div className="reveal mt-12 flex justify-center">
           <a
-            href="https://github.com/vansh835"
+            href="https://github.com/VanshCodes05"
             target="_blank"
             rel="noopener noreferrer"
             className="group flex items-center gap-3 px-8 py-3.5 border border-[var(--border)] text-[var(--text-mid)] text-[10px] font-bold tracking-[0.2em] uppercase rounded-sm hover:border-[var(--highlight)] hover:text-[var(--highlight)] hover:bg-[var(--highlight)]/5 transition-all duration-200"
