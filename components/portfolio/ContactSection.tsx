@@ -26,7 +26,7 @@ const contactInfo = [
 ]
 
 const socials = [
-  { icon: Github, href: "https://github.com/vansh835", label: "GitHub" },
+  { icon: Github, href: "https://github.com/VanshCodes05", label: "GitHub" },
   { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
   { icon: Twitter, href: "https://x.com/vansh___835", label: "Twitter / X" },
 ]
