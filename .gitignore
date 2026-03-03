@@ -1,0 +1,10 @@
+# Vansh Saini runtime files
+__Vansh Saini_runtime_loader.js
+__Vansh Saini_devtools.tsx
+__Vansh Saini_jsx-dev-runtime.ts
+
+# Common ignores
+node_modules/
+.next/
+.env*.local
+.DS_Store
